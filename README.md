@@ -1,2 +1,3 @@
 # EB-DED-Monitoing-Network
-A deep learning model for electron beam directed deposition process monitroing
+The code will be made available after further organization and annotation soon.
+
